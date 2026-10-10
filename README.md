@@ -36,6 +36,17 @@ An interactive Power BI dashboard designed to analyse garment orders, shipments,
 ## Project Objective
 To transform garment supply chain data into an interactive dashboard that helps users explore order performance, shipment progress, and product revenue.
 
+## Dashboard Preview
+
+### 1. Overview
+![Overview Dashboard](overview.png)
+
+### 2. Orders & Shipments
+![Orders and Shipments Dashboard](orders-shipments.png)
+
+### 3. Revenue & Products
+![Revenue and Products Dashboard](revenue-products.png)
+
 ## Author
 Ankur Srivastava
 
