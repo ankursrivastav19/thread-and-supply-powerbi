@@ -39,13 +39,13 @@ To transform garment supply chain data into an interactive dashboard that helps 
 ## Dashboard Preview
 
 ### 1. Overview
-![Overview Dashboard](Overview page.png)
+![Overview Dashboard](overview.png)
 
 ### 2. Orders & Shipments
-![Orders and Shipments Dashboard](orders and shipments.png)
+![Orders and Shipments Dashboard](orders-shipments.png)
 
 ### 3. Revenue & Products
-![Revenue and Products Dashboard](Revenue and Product.png)
+![Revenue and Products Dashboard](revenue-products.png)
 
 ## Author
 Ankur Srivastava
